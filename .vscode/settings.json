@@ -3,5 +3,14 @@
         "!sql"
     ],
     "workbench.colorTheme": "Default Dark+",
-    "window.zoomLevel":1
+    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {
+        "window.activeBorder": "#00000000",
+        "window.inactiveBorder": "#00000000",
+        "titleBar.activeBorder": "#00000000",
+        "titleBar.inactiveBorder": "#00000000",
+        "activityBar.background": "#14276C",
+        "titleBar.activeBackground": "#1C3797",
+        "titleBar.activeForeground": "#FBFCFE"
+    }
 }
